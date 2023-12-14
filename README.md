@@ -1,2 +1,2 @@
-# IT_elective
-For educational purposes
+# Human Resources Management System
+ipt.project.aces
